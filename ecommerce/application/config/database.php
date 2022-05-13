@@ -1,7 +1,7 @@
 <?php
 
 try{
-    $dbConnect = new PDO("mysql:host=localhost;dbname=devmevlu_ecommerce;charset=utf8", "devmevlu_cms", "Mnarman25!x*");
+    $dbConnect = new PDO("mysql:host=localhost;dbname=!;charset=utf8", "!", "!");
 }catch(PDOException $error){
     echo "Cannot database connect!<br>Error Details:" . $error->getMessage();
 }
