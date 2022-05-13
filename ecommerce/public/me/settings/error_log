@@ -1,0 +1,12 @@
+[31-Mar-2022 18:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php on line 11
+[31-Mar-2022 18:42:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php on line 14
+[31-Mar-2022 18:45:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/devmevlutnarmanc/public_html/cms/ecommerce/settings/config.php on line 14
